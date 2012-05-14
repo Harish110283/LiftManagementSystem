@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!--AgileJ Ltd. (http://www.agilej.com)-->
+<ajsv>
+    <diagram style="noMethodSignaturesDiagramStyle" version="1.7.4.v20110506-1155">
+        <class className="com.lms.entity.Lift" project="LiftManagementSystem" xLocation="784" yLocation="144"/>
+        <class className="com.lms.entity.FloorDownButton" project="LiftManagementSystem" xLocation="1466" yLocation="-313"/>
+        <class className="com.lms.entity.Visitable" project="LiftManagementSystem" xLocation="2266" yLocation="775"/>
+        <class className="com.lms.entity.Direction" project="LiftManagementSystem" xLocation="2444" yLocation="-90"/>
+        <class className="com.lms.entity.MetaData" project="LiftManagementSystem" xLocation="2444" yLocation="160"/>
+        <class className="com.lms.entity.FloorUpButton" project="LiftManagementSystem" xLocation="1098" yLocation="-292"/>
+        <class className="com.lms.entity.FloorButton" project="LiftManagementSystem" xLocation="2006" yLocation="-298"/>
+        <class className="com.lms.entity.LiftImage" project="LiftManagementSystem" xLocation="2761" yLocation="156"/>
+        <class className="com.lms.entity.Visitor" project="LiftManagementSystem" xLocation="1284" yLocation="550"/>
+        <class className="com.lms.entity.Floor" project="LiftManagementSystem" xLocation="784" yLocation="-309"/>
+    </diagram>
+</ajsv>
